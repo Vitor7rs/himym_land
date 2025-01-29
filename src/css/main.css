@@ -52,6 +52,7 @@ body {
 	color: var(--branco);
 	font-weight: 500;
 	transition: 0.3s;
+	font-family: "Montserrat", sans-serif;
 }
 
 .nav-links li a:hover {
